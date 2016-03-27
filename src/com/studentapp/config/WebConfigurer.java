@@ -14,13 +14,13 @@ public class WebConfigurer extends AbstractAnnotationConfigDispatcherServletInit
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
 		// TODO Auto-generated method stub
-		return null;
+		return new Class<?>[] {ServletContextConfig.class};
 	}
 
 	@Override
 	protected String[] getServletMappings() {
 		// TODO Auto-generated method stub
-		return null;
+		return new String[]{"/"};
 	} 
 
 	

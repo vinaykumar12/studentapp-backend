@@ -1,5 +1,5 @@
 package com.studentapp.config;
 
-public class LocaleConfiguration {
+public class RootContextConfig {
 
 }

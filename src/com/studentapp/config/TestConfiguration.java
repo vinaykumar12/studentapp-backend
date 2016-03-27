@@ -1,5 +1,5 @@
 package com.studentapp.config;
 
-public class AsyncConfiguration {
+public class TestConfiguration {
 
 }

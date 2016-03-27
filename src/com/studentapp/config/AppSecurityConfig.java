@@ -1,5 +1,5 @@
 package com.studentapp.config;
 
-public class DatabaseConfiguration {
+public class AppSecurityConfig {
 
 }
